@@ -1,0 +1,35 @@
+{
+  "id": "rings-and-running-shoes-gunblazer-set",
+  "title": "Rings & Running Shoes Gunblazer Set",
+  "version": "1.0.0",
+  "manifest": "https://github.com/Gunblazer-42/Rings-and-Running-Shoes-Gunblazer-Expansion/latest/download/module.json",
+  "download": "https://github.com/Gunblazer-42/Rings-and-Running-Shoes-Gunblazer-Expansion/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Gunblazer42",
+      "discord": "Gunblazer42",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "randrs-GB-Set",
+      "label": "R&RS Gunblazer Set",
+      "path": "packs/randrs-GB-Set",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": ""
+}
